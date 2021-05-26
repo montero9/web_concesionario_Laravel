@@ -1,5 +1,3 @@
-# web_concesionario_Laravel
-
 <h1>Web de concesionario en Laravel</h1>
 
 Esta aplicación, diseñada mediante Laravel, permite gestionar todas las tareas que se realizan en un concesionario, que son diversas, cómo gestionar clientes, manejar el stock, controlar las ventas, generar presupuestos, etc.
